@@ -563,7 +563,7 @@
   </div>
 
 
-                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                Designed by <a>Guilherme Valentine</a>
               </div>
             </div>
           </div>
